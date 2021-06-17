@@ -18,6 +18,7 @@ namespace Async_Await
         public int Level { get; set; }
         public int Hp { get; set; }
         public int Attack { get; set; }
+        public List<int> Items { get; set; } = new List<int>();
     }
 
     class LINQ
@@ -51,6 +52,9 @@ namespace Async_Await
                     Attack = rand.Next(5, 50)
                 };
 
+                for (int j = 0; j < 5; j++)
+                    player.Items.Add(rand.Next(1, 100));
+
                 _players.Add(player);
             }
 
@@ -82,6 +86,47 @@ namespace Async_Await
                 }
             }
 
+            // 중첩 FROM
+            // ex) 모든 아이템 목록을 추출
+            {
+                var playerTitems = from p in _players
+                                   from i in p.Items
+                                   where i < 30
+                                   select new { p, i };
+                var li = playerTitems.ToList();
+            }
+
+            // grouping
+            {
+                var playersByLevel = from p in _players
+                                     group p by p.Level into g
+                                     orderby g.Key
+                                     select new { g.Key, Players = g };
+            }
+
+            // join
+            {
+                List<int> levels = new List<int>() { 1, 5, 10 };
+
+                var playerLevels = from p in _players
+                                   join l in levels
+                                   on p.Level equals l
+                                   select p;
+            }
+
+            // LINQ 표준 연산자
+            {
+                var players =
+                    from p in _players
+                    where p.ClassType == ClassType.Knight && p.Level >= 50
+                    orderby p.Level ascending
+                    select p;
+
+                _players
+                    .Where(p => p.ClassType == ClassType.Knight && p.Level >= 50)
+                    .OrderBy(p => p.Level)
+                    .Select(p => p);
+            }
         }
 
         static public List<Player> GetHighLevelKnights()
