@@ -8,7 +8,9 @@ using System.Linq;
 using System.Threading.Tasks;
 
 // MVC
-// 
+// M (Model)        데이터
+// V (View)         UI(인테리어)
+// C (Controller)   액션
 
 
 namespace HelloEmpty
