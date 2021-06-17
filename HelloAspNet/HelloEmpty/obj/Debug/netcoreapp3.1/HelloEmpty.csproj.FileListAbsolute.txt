@@ -20,13 +20,4 @@ D:\vs-code\vs_workspace\Unity_Web\HelloAspNet\HelloEmpty\obj\Debug\netcoreapp3.1
 D:\vs-code\vs_workspace\Unity_Web\HelloAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.genruntimeconfig.cache
 D:\vs-code\vs_workspace\Unity_Web\HelloAspNet\HelloEmpty\bin\Debug\netcoreapp3.1\HelloEmpty.Views.dll
 D:\vs-code\vs_workspace\Unity_Web\HelloAspNet\HelloEmpty\bin\Debug\netcoreapp3.1\HelloEmpty.Views.pdb
-D:\vs-code\vs_workspace\Unity_Web\HelloAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.RazorAssemblyInfo.cache
-D:\vs-code\vs_workspace\Unity_Web\HelloAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.RazorAssemblyInfo.cs
-D:\vs-code\vs_workspace\Unity_Web\HelloAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.TagHelpers.input.cache
-D:\vs-code\vs_workspace\Unity_Web\HelloAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.TagHelpers.output.cache
-D:\vs-code\vs_workspace\Unity_Web\HelloAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.RazorCoreGenerate.cache
-D:\vs-code\vs_workspace\Unity_Web\HelloAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.RazorTargetAssemblyInfo.cs
-D:\vs-code\vs_workspace\Unity_Web\HelloAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.Views.pdb
 D:\vs-code\vs_workspace\Unity_Web\HelloAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\HelloEmpty.csproj.CopyComplete
-D:\vs-code\vs_workspace\Unity_Web\HelloAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-D:\vs-code\vs_workspace\Unity_Web\HelloAspNet\HelloEmpty\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs

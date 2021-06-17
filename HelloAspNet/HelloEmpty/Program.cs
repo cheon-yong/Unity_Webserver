@@ -12,6 +12,15 @@ using System.Threading.Tasks;
 // V (View)         UI(인테리어)
 // C (Controller)   액션
 
+// Razor
+// M
+// VC
+// M - V - VM
+
+// WebAPI
+// M
+// C
+
 
 namespace HelloEmpty
 {
