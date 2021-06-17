@@ -6,8 +6,7 @@ namespace Async_Await
     // async/await
     // 비동기 프로그래밍 문법
     
-
-    class Program
+    /*class Program
     {
         static Task Test()
         {
@@ -37,5 +36,5 @@ namespace Async_Await
 
             }
         }
-    }
+    }*/
 }
