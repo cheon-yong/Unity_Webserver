@@ -49,3 +49,5 @@ D:\vs-code\vs_workspace\Unity_Web\BlazorApp\BlazorApp\obj\Debug\netcoreapp3.1\Bl
 D:\vs-code\vs_workspace\Unity_Web\BlazorApp\BlazorApp\obj\Debug\netcoreapp3.1\BlazorApp.pdb
 D:\vs-code\vs_workspace\Unity_Web\BlazorApp\BlazorApp\obj\Debug\netcoreapp3.1\BlazorApp.genruntimeconfig.cache
 D:\vs-code\vs_workspace\Unity_Web\BlazorApp\BlazorApp\obj\Debug\netcoreapp3.1\BlazorApp.csproj.CopyComplete
+D:\vs-code\vs_workspace\Unity_Web\BlazorApp\BlazorApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\JSInterop.razor.g.cs
+D:\vs-code\vs_workspace\Unity_Web\BlazorApp\BlazorApp\obj\Debug\netcoreapp3.1\Razor\Pages\JSInterop.razor.g.cs
