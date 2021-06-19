@@ -91,7 +91,7 @@ using BlazorApp.Data;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 32 "D:\vs-code\vs_workspace\Unity_Web\BlazorApp\BlazorApp\Pages\FetchData.razor"
+#line 39 "D:\vs-code\vs_workspace\Unity_Web\BlazorApp\BlazorApp\Pages\FetchData.razor"
        
     private WeatherForecast[] forecasts;
 

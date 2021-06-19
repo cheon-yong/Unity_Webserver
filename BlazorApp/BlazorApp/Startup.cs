@@ -30,16 +30,7 @@ namespace BlazorApp
             services.AddServerSideBlazor();
             services.AddSingleton<WeatherForecastService>();
 
-            services.AddSingleton<IFoodService, FastFoodService>();
-            
-            services.AddSingleton<PaymentService>();
-
-            services.AddSingleton<SingleTonService>();
-
-            services.AddTransient<TransientService>();
-
-            services.AddScoped<ScopedService>();
-
+            services.AddScoped<CounterState>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

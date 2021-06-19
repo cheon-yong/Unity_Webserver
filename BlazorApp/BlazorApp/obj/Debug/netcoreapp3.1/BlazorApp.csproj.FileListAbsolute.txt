@@ -49,9 +49,3 @@ D:\vs-code\vs_workspace\Unity_Web\BlazorApp\BlazorApp\obj\Debug\netcoreapp3.1\Bl
 D:\vs-code\vs_workspace\Unity_Web\BlazorApp\BlazorApp\obj\Debug\netcoreapp3.1\BlazorApp.pdb
 D:\vs-code\vs_workspace\Unity_Web\BlazorApp\BlazorApp\obj\Debug\netcoreapp3.1\BlazorApp.genruntimeconfig.cache
 D:\vs-code\vs_workspace\Unity_Web\BlazorApp\BlazorApp\obj\Debug\netcoreapp3.1\BlazorApp.csproj.CopyComplete
-D:\vs-code\vs_workspace\Unity_Web\BlazorApp\BlazorApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\User.razor.g.cs
-D:\vs-code\vs_workspace\Unity_Web\BlazorApp\BlazorApp\obj\Debug\netcoreapp3.1\Razor\Pages\User.razor.g.cs
-D:\vs-code\vs_workspace\Unity_Web\BlazorApp\BlazorApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\ShowUser.razor.g.cs
-D:\vs-code\vs_workspace\Unity_Web\BlazorApp\BlazorApp\obj\Debug\netcoreapp3.1\Razor\Pages\ShowUser.razor.g.cs
-D:\vs-code\vs_workspace\Unity_Web\BlazorApp\BlazorApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\TableTemplate.razor.g.cs
-D:\vs-code\vs_workspace\Unity_Web\BlazorApp\BlazorApp\obj\Debug\netcoreapp3.1\Razor\Pages\TableTemplate.razor.g.cs
