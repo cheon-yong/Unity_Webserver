@@ -145,7 +145,7 @@ using RankingApp.Data.Services;
         {
             var result = RankingService.UpdateGameResult(_gameResult);
         }
-
+        _showPopup = false;
         _gameResults = await RankingService.GetGameResultsAsync();
     }
 

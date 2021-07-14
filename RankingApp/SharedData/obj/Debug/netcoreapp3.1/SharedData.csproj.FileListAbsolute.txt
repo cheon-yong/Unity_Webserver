@@ -1,0 +1,9 @@
+D:\vs-code\vs_workspace\Unity_Web\RankingApp\SharedData\bin\Debug\netcoreapp3.1\SharedData.deps.json
+D:\vs-code\vs_workspace\Unity_Web\RankingApp\SharedData\bin\Debug\netcoreapp3.1\SharedData.dll
+D:\vs-code\vs_workspace\Unity_Web\RankingApp\SharedData\bin\Debug\netcoreapp3.1\SharedData.pdb
+D:\vs-code\vs_workspace\Unity_Web\RankingApp\SharedData\obj\Debug\netcoreapp3.1\SharedData.csprojAssemblyReference.cache
+D:\vs-code\vs_workspace\Unity_Web\RankingApp\SharedData\obj\Debug\netcoreapp3.1\SharedData.AssemblyInfoInputs.cache
+D:\vs-code\vs_workspace\Unity_Web\RankingApp\SharedData\obj\Debug\netcoreapp3.1\SharedData.AssemblyInfo.cs
+D:\vs-code\vs_workspace\Unity_Web\RankingApp\SharedData\obj\Debug\netcoreapp3.1\SharedData.csproj.CoreCompileInputs.cache
+D:\vs-code\vs_workspace\Unity_Web\RankingApp\SharedData\obj\Debug\netcoreapp3.1\SharedData.dll
+D:\vs-code\vs_workspace\Unity_Web\RankingApp\SharedData\obj\Debug\netcoreapp3.1\SharedData.pdb
