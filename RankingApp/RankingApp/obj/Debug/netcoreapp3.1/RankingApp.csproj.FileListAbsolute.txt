@@ -104,3 +104,5 @@ D:\vs-code\vs_workspace\Unity_Web\RankingApp\RankingApp\obj\Debug\netcoreapp3.1\
 D:\vs-code\vs_workspace\Unity_Web\RankingApp\RankingApp\obj\Debug\netcoreapp3.1\RankingApp.genruntimeconfig.cache
 D:\vs-code\vs_workspace\Unity_Web\RankingApp\RankingApp\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Ranking.razor.g.cs
 D:\vs-code\vs_workspace\Unity_Web\RankingApp\RankingApp\obj\Debug\netcoreapp3.1\Razor\Pages\Ranking.razor.g.cs
+D:\vs-code\vs_workspace\Unity_Web\RankingApp\RankingApp\bin\Debug\netcoreapp3.1\SharedData.dll
+D:\vs-code\vs_workspace\Unity_Web\RankingApp\RankingApp\bin\Debug\netcoreapp3.1\SharedData.pdb
